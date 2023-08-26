@@ -1,3 +1,6 @@
+# Preview
+https://github.com/KILLER-RAMADAN/Student-RegistrationAndManagement-System/assets/90656786/36fb98b4-d979-4e65-873a-8fbefbcf3139
+
 # Student-RegistrationAndManagement-System
 ![Screenshot 2023-08-26 174834](https://github.com/KILLER-RAMADAN/Student-RegistrationAndManagement-System/assets/90656786/5e839ea9-8d49-41c9-873e-d9174eb312a1)
 
