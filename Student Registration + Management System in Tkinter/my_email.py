@@ -1,2 +1,2 @@
-defualt_email="ahmedramadan5452332@gmail.com"
-email_password="tpncduscbibtbcxl"
+defualt_email="usegmailaccount"
+email_password="yourgmailpass"
